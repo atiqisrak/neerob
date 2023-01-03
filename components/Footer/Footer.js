@@ -56,7 +56,7 @@ const Footer = () => {
     <div className={cn("section", styles.section)}>
       <div className={cn("container", styles.container)}>
         <div className={styles.main_content}>
-          <h4 className={cn("body-bold", styles.title)}>Vedio</h4>
+          <h4 className={cn("body-bold", styles.title)}>Neerob Raihan</h4>
           <p className={cn("caption", styles.subtitle)}>
             Faucibus ornare suspendisse sed nisigittis volutpat odio facilisis
             mauris amet massa velit scelerisque.
