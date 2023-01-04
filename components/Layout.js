@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
       {children}
       <Footer />
       <FooterTip />
-      <Author />
+      {/* <Author /> */}
     </>
   );
 };

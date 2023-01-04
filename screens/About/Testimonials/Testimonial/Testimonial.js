@@ -14,7 +14,7 @@ const Testimonial = () => {
       <div className={styles.author_container}>
         <img src="/images/amir.jpg" className={styles.image} />
         <div className={styles.content}>
-          <p className={cn("body-2-bold", styles.author)}>Angel Uriostegui</p>
+          <p className={cn("body-2-bold", styles.author)}>Neerob Raihan</p>
           <p className={cn("caption", styles.position)}>Founder, iFrame</p>
         </div>
       </div>

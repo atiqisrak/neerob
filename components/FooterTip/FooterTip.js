@@ -12,7 +12,7 @@ const FooterTip = () => {
           rel="noreferrer"
           className={cn("caption-bold", styles.author)}
         >
-          Angel Uriostegui
+          Neerob Raihan
         </a>
       </p>
       <p className={cn("caption")}>Terms & Conditions | Privacy Policy </p>

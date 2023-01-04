@@ -8,7 +8,7 @@ const memmbers = [
   {
     position: "CEO/FOUNDER",
     image: "/images/cesar.jpg",
-    name: "Angel Uriostegui",
+    name: "Neerob Raihan",
   },
   {
     position: "DESIGNER",

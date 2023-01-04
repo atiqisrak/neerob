@@ -9,7 +9,7 @@ import { Link as AnchorLink } from "react-scroll";
 
 const stats = [
   {
-    title: "+84",
+    title: "84+",
     text: "Clients worldwide",
   },
   {
@@ -36,7 +36,7 @@ const Hero = () => {
           </motion.h1>
           <motion.p variants={item} className={cn("body", styles.subtitle)}>
           Transforming moments into memories through the art of photography for{" "}
-            <span className={cn("body-bold", styles.text)}>a decade</span>
+            <span className={cn("body-bold", styles.text)}>A Decade</span>
           </motion.p>
           <div className={styles.wrapper}>
             <Link href="/contact">
@@ -80,7 +80,7 @@ const Hero = () => {
           />
 
           <div className={styles.author}>
-            <p className={cn("caption", styles.name)}>Angel Uriostegui</p>
+            <p className={cn("caption", styles.name)}>Neerob Raihan</p>
           </div>
           <div className={styles.overlay} />
         </div>
