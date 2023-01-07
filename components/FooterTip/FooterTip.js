@@ -5,14 +5,14 @@ const FooterTip = () => {
   return (
     <div className={cn("container", styles.container)}>
       <p className={cn("caption", styles.title)}>
-        Copyright © 2022 - React Theme by{" "}
+        Copyright © 2022 - Next.js Theme by{" "}
         <a
-          href="https://uriostegui.vercel.app"
+          href="https://www.linkedin.com/in/atiq-israk/"
           target="_blank"
           rel="noreferrer"
           className={cn("caption-bold", styles.author)}
         >
-          Neerob Raihan
+          Atiq Israk
         </a>
       </p>
       <p className={cn("caption")}>Terms & Conditions | Privacy Policy </p>

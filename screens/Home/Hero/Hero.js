@@ -10,7 +10,7 @@ import { Link as AnchorLink } from "react-scroll";
 const stats = [
   {
     title: "84+",
-    text: "Clients worldwide",
+    text: "Clients Nationwide",
   },
   {
     title: "120",

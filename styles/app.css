@@ -8,3 +8,12 @@
 @import './blocks/title';
 @import './blocks/container';
 @import './blocks/button';
+
+/* Custom */
+.logo-image {
+    filter: grayscale(100%); /* Make the image black and white */
+  }
+  
+  .logo-image:hover {
+    filter: grayscale(0%); /* Make the image colorful on hover */
+  }

@@ -32,19 +32,16 @@ const information = [
     title: "Cookies Policy",
   },
   {
-    title: "Contact Us",
+    title: "Contact Me",
   },
 ];
 
 const contact = [
   {
-    title: "Phone: (+63) 555 1212",
+    title: "Phone: (+880) 196 4650 050",
   },
   {
-    title: "Fax: (+63) 555 0100",
-  },
-  {
-    title: "Contact us at: info@mail.com",
+    title: "Contact me at: raihannerob06@gmail.com",
   },
   {
     title: "Blog",
@@ -100,7 +97,7 @@ const Footer = () => {
             </div>
           </div>
           <div className={styles.content}>
-            <h4 className={cn("body-2-bold", styles.title)}>Contact us</h4>
+            <h4 className={cn("body-2-bold", styles.title)}>Contact Me</h4>
             <div className={styles.links}>
               {contact.map((item, index) => (
                 <button

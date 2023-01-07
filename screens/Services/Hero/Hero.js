@@ -9,19 +9,19 @@ import ScrollAnimation from "../../../components/ScrollAnimation";
 const services = [
   {
     icon: "paint-bucket",
-    title: "UI-X Design",
+    title: "Portraits",
     subtitle:
       "Aenean non accumsan ante. Duis et risus accumsan sem tempus porta nec sit amet estsed ut euismod.",
   },
   {
     icon: "plugin",
-    title: "App Development",
+    title: "Events",
     subtitle:
       "Aenean non accumsan ante. Duis et risus accumsan sem tempus porta nec sit amet estsed ut euismod.",
   },
   {
     icon: "globe",
-    title: "Web Development",
+    title: "Landscapes",
     subtitle:
       "Aenean non accumsan ante. Duis et risus accumsan sem tempus porta nec sit amet estsed ut euismod.",
   },
